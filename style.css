@@ -315,4 +315,9 @@ dialog:has(#qvink_memory_state_interface) {
     }
 }
 
+.paginationjs {
+    display: flex !important;
+    align-items: center !important;
+    flex-direction: column !important;
+}
 
