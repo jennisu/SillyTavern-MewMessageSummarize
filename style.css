@@ -314,6 +314,10 @@ dialog:has(#qvink_memory_state_interface) {
         max-width: 100vw;
     }
 }
+.menu_button {
+    min-height: 30px;
+    /*min-width: 30px;*/
+}
 
 
 
