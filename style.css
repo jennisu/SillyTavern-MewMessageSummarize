@@ -315,11 +315,4 @@ dialog:has(#qvink_memory_state_interface) {
     }
 }
 
-select,
-#char-management-dropdown,
-#tagInput {
-    padding: 5px 16px 5px 8px;
-}
-
-
 
