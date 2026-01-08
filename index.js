@@ -2068,7 +2068,7 @@ class MemoryEditInterface {
         });
 
         this.$regex_selector.empty();
-        this.$regex_selector.append(`<option value="">None</option>`)
+        this.$regex_selector.append(`<option value="">Noneㅤ</option>`)
         for (let name of Object.keys(scripts)) {  // construct the dropdown options
             this.$regex_selector.append(`<option value="${name}">${name}</option>`)
         }
