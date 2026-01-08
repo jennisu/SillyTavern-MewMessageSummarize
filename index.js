@@ -43,7 +43,7 @@ export { MODULE_NAME };
 
 // THe module name modifies where settings are stored, where information is stored on message objects, macros, etc.
 const MODULE_NAME = 'qvink_memory';
-const MODULE_NAME_FANCY = 'Qvink Memory';
+const MODULE_NAME_FANCY = 'Mew Qvink Memory';
 const PROGRESS_BAR_ID = `${MODULE_NAME}_progress_bar`;
 
 // CSS classes (must match the CSS file because I'm too stupid to figure out how to do this properly)
