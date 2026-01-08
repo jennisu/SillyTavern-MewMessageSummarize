@@ -320,4 +320,6 @@ dialog:has(#qvink_memory_state_interface) {
     align-items: center !important;
     flex-direction: column !important;
 }
-
+.paginationjs-size-changer select {
+    margin: 10px 2.5px 0px !important;;
+}
