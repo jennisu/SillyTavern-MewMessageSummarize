@@ -304,5 +304,16 @@ dialog:has(#qvink_memory_state_interface) {
     font-weight: bold;
 }
 
+@media screen and (max-width: 1000px) {
+    .draggable {
+        display: block;
+        width: 100vw;
+        height: 100vh;
+        z-index: 9999;
+        max-height: 95.8vh;
+        max-width: 100vw;
+    }
+}
+
 
 
